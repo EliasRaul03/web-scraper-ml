@@ -25,14 +25,3 @@ Keep credentials secure in config.json / Protege credenciales en config.json
 **📄 MIT License / Licencia MIT**  
 Contributions welcome / ¡Contribuciones bienvenidas!  
 
----
-
-This version:  
-- Maintains all key information  
-- Fits better in documentation  
-- Uses clean markdown formatting  
-- Is fully bilingual  
-- Keeps the professional tone  
-- Removes redundant sections  
-
-You can use this for your GitHub README.md or project documentation. The vertical spacing with slashes creates a clean bilingual presentation without doubling the length.
